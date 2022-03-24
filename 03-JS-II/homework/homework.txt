@@ -1,0 +1,8 @@
+Homework: Javascript II
+
+for : Crea un bucle que consiste en tres expresiones opcionales, encerradas en paréntesis y separadas por puntos y comas, seguidas de una sentencia ejecutada en un bucle.
+
+`&&`:Esto evaluará ambas expresiones y devolverá verdadero si AMBAS expresiones son true.
+`||`:Determinará si una de las expresiones es true. Devolverá true si una (o ambas) de las expresiones es true.
+! : se llama not, esto se encarga de delvover lo contrio de verdadro o falso, por ejemplo si es verdadero devuelve falso y asi lo contrario.
+
